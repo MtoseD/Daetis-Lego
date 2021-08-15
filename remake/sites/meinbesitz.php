@@ -1,54 +1,6 @@
-<!DOCTYPE html>
-<html lang="de">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mein Besitz - Daeti's LEGO</title>
-    <link rel="stylesheet" type="text/css" href="../css/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap" rel="stylesheet">
-    <link rel="apple-touch-icon" sizes="57x57" href="../images/icon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="../images/icon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="../images/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="../images/icon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="../images/icon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="../images/icon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="../images/icon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="../images/icon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="../images/icon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="../images/icon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../images/icon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="../images/icon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../images/icon/favicon-16x16.png">
-    <link rel="manifest" href="../images/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="../images/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-</head>
-
-<body class="categoriesites">
-    <nav>
-        <ul class="menubar">
-            <li><a href="../index.html"><img class="logo" src="../images/logo.png" alt="Logo von Daeti's Lego"></a></li>
-            <li class="menubar_item"><a href="../index.html">Home</a></li>
-            <li class="menubar_item_active"><a href="meinbesitz.html">Mein Besitz</a></li>
-            <li class="dropdown">
-                <a href="javascript:void(0)" class="dropbtn">Kategorie ⌵</a>
-                <div class="dropdown-content">
-                    <a href="starwars.html">Star Wars</a>
-                    <a href="marvel.html">Marvel</a>
-                    <a href="dc.html">DC</a>
-                    <a href="architecture.html">Architecture</a>
-                    <a href="creator.html">Creator</a>
-                    <a href="technic.html">Technic</a>
-                    <a href="more.html">More...</a>
-                </div>
-        </ul>
-    </nav>
-
-
+    <head>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
 
     <h1 class="mystuff_title">
         Star Wars
@@ -59,8 +11,7 @@
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
-                    <img class="flip-card-image" src="../images/mystuff/milleniumfalcon.jpg"
-                        alt="Millenium Falken Bild">
+                    <img class="flip-card-image" src="../images/mystuff/milleniumfalcon.jpg" alt="Millenium Falken Bild">
                 </div>
                 <div class="flip-card-back">
                     <h1>Millenium Falken</h1>
@@ -164,8 +115,7 @@
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
-                    <img class="flip-card-image" src="../images/mystuff/anakinspodracer.png"
-                        alt="Anakin's Podracer Bild">
+                    <img class="flip-card-image" src="../images/mystuff/anakinspodracer.png" alt="Anakin's Podracer Bild">
                 </div>
                 <div class="flip-card-back">
                     <h1>Anakin's Podracer</h1>
@@ -217,8 +167,7 @@
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
-                    <img class="flip-card-image" src="../images/mystuff/naboostarfighter.png"
-                        alt="Naboo Starfighter Bild">
+                    <img class="flip-card-image" src="../images/mystuff/naboostarfighter.png" alt="Naboo Starfighter Bild">
                 </div>
                 <div class="flip-card-back">
                     <h1>Naboo Starfighter</h1>
@@ -270,8 +219,7 @@
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
-                    <img class="flip-card-image" src="../images/mystuff/stormtrooperhelmet.png"
-                        alt="Stormtrooper Helm Bild">
+                    <img class="flip-card-image" src="../images/mystuff/stormtrooperhelmet.png" alt="Stormtrooper Helm Bild">
                 </div>
                 <div class="flip-card-back">
                     <h1>Stormtrooper Helm</h1>
@@ -435,8 +383,7 @@
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
-                    <img class="flip-card-image" src="../images/mystuff/captainamericavshydra.png"
-                        alt="Captain America vs. Hydra Bild">
+                    <img class="flip-card-image" src="../images/mystuff/captainamericavshydra.png" alt="Captain America vs. Hydra Bild">
                 </div>
                 <div class="flip-card-back">
                     <h1>Captain America<br>vs. Hydra</h1>
@@ -488,8 +435,7 @@
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
-                    <img class="flip-card-image" src="../images/mystuff/xmenvsthesentinel.png"
-                        alt="X-Men vs. The Sentinel Bild">
+                    <img class="flip-card-image" src="../images/mystuff/xmenvsthesentinel.png" alt="X-Men vs. The Sentinel Bild">
                 </div>
                 <div class="flip-card-back">
                     <h1>X-Men vs.<br>The Sentinel</h1>
@@ -593,8 +539,7 @@
         <div class="flip-card">
             <div class="flip-card-inner">
                 <div class="flip-card-front">
-                    <img class="flip-card-image" src="../images/mystuff/captainamericavshydra.png"
-                        alt="Captain America vs. Hydra Bild">
+                    <img class="flip-card-image" src="../images/mystuff/captainamericavshydra.png" alt="Captain America vs. Hydra Bild">
                 </div>
                 <div class="flip-card-back">
                     <h1>Captain America<br>vs. Hydra</h1>
@@ -644,41 +589,3 @@
             </div>
         </div>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-    <br><br>
-
-    <footer>
-
-        <p class="leftfooter">&copy; Daeti's LEGO</p>
-
-        <table class="tbfooter">
-
-            <tr>
-                <td>Mike Dätwyler</td>
-            </tr>
-            <tr>
-                <td>Schweiz, Luzern</td>
-            </tr>
-            <tr>
-                <td>gaming_md@bluewin.ch</td>
-            </tr>
-        </table>
-
-
-    </footer>
-
-
-
-
-
-</body>
